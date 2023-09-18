@@ -1,3 +1,3 @@
 # Delhi-Air-quality-analysis
 
-Store sales and profit analysis is the task of analyzing the performance of a retail store in terms of its sales and profits. It helps businesses identify areas for improvement and make data-driven decisions to optimize their operations, pricing, marketing, and inventory management strategies to drive revenue and growth
+Air quality index (AQI) analysis is a crucial aspect of environmental data science that involves monitoring and analyzing air quality in a specific location. It aims to provide a numerical value representative of overall air quality, essential for public health and environmental management.
